@@ -33,6 +33,6 @@ steps:
 - task: AzureWebApp@1
   inputs:
     azureSubscription: 'Visual Studio Enterprise(bd6bd12d-6929-43df-a6b4-edeca09e8a71)'
-    appType: 'webAppLinux'
-    appName: 'aniruddhajere007'
+    appType: 'webApp'
+    appName: 'aniruddhatest007'
     
